@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40deployment": "file:///home/ubuntu/Desktop/aws%20%2B%20eks/sample-service.yaml"
+    }
+}
